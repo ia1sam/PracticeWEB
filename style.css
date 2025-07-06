@@ -25,7 +25,7 @@ body {
   width: 500px;
   height: 650px;
   background: rgba(95, 94, 94, 0.95);
-  border-radius: 30px;
+  border-radius: 40px;
   padding: 40px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10px);
@@ -37,7 +37,7 @@ body {
   background: #41a8d1;
   color: white;
   border: none;
-  border-radius: 20px;
+  border-radius: 25px;
   font-size: 2.5em;
   text-align: right;
   padding: 0 25px;
@@ -101,8 +101,8 @@ body {
 .history {
   width: 300px;
   height: 650;
-  background: rgba(110, 109, 109, 0.95);
-  border-radius: 30px;
+  background: rgba(95, 94, 94, 0.95);
+  border-radius: 40px;
   padding: 25px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10px);
