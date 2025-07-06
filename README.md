@@ -33,7 +33,8 @@
 - Открыть файл index.html в любом браузере
 
 Альтернатива:
-- Ссылка: https://ia1sam.github.io/PracticeWEB/
+- Ссылка GitHub: https://ia1sam.github.io/PracticeWEB/
+- Ссылка surge.sh: practice-web-calculator.surge.sh
 
 Как использовать:
 
@@ -68,5 +69,5 @@
 - История ограничена 100 операциями
 
 
-Версия 2.22
+Версия 2.23
 06.07.2025
