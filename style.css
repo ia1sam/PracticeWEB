@@ -43,6 +43,7 @@ body {
   padding: 0 25px;
   margin-bottom: 30px;
   font-weight: bold;
+  outline: none;
 }
 
 .buttons {
