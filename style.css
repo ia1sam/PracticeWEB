@@ -17,8 +17,8 @@ body {
 .container {
   display: flex;
   gap: 20px;
-  max-width: 1000px;
-  width: 100%;
+  align-items: center;
+  justify-content: center;
 }
 
 .calculator {
@@ -27,8 +27,8 @@ body {
   background: rgba(95, 94, 94, 0.95);
   border-radius: 40px;
   padding: 40px;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1); 
+  flex-direction: column;
 }
 
 .display {
